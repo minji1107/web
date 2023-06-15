@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0;}
+
+.bg00{
+    width: 100vw; height: 100vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;
+}
+
+.bg01{background-image: url(img123/bg01.png);}
+.bg02{background-image: url(img123/bg02.png);}
+.bg03{background-image: url(img123/bg03.png);}
+.bg01{background-image: url(img123/bg04.png);}
